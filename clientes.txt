@@ -1,0 +1,3 @@
+Nicolas Orozco;19315057-8;Puerto Montt
+Maria Soto;9765432-1;Llanquihue
+Pedro Rojas;20564874-5;Frutillar

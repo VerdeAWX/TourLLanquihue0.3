@@ -1,0 +1,3 @@
+1;Saltos del Petrohue;Puerto Varas;45000;20
+2;Ruta Chiloe;Castro;65000;15
+3;Tour Gastronomico;Frutillar;35000;10
